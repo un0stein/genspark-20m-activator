@@ -1,4 +1,7 @@
-<h1><img src="https://i.imgur.com/your_genspark_logo_image.png" alt="Genspark Logo" width="40"> genspark-20m-activator</h1>
+<h1>
+  <img src="https://www.genspark.ai/_nuxt/genspark_logo.dL_uPqnS.png" alt="Genspark Logo" width="40">
+  genspark-invite-plus
+</h1>
 
 <p>Easily activate your Genspark account with a Plus plan!</p>
 
@@ -35,4 +38,7 @@
 <h2><ins>Benefits</ins></h2>
 
 <ul>
-  <li><b>Fast Activation:</b> Get
+  <li><b>Fast Activation:</b> Get your Plus plan activated without delay.</li>
+  <li><b>No Hassle:</b> Skip the trouble of inviting and explaining to friends.</li>
+  <li><b>Extended Plus Plan:</b> Enjoy the benefits of Genspark Plus for 12 or 20 months.</li>
+</ul>
