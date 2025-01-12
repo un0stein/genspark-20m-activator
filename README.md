@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://www.genspark.ai/_nuxt/genspark_logo.dL_uPqnS.png" alt="Genspark Logo" width="40">
+  <img src="https://www.genspark.ai/_nuxt/genspark_logo.dL_uPqnS.png" alt="Genspark Logo" width="30">
   genspark-invite-plus
 </h1>
 
