@@ -1,6 +1,6 @@
 <h1>
   <span style="display: flex; align-items: center;">
-    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAWlBMVEVHcEz////////////////////////////q6uq+vr6RkZH///////////9GRkYAAAAAAADExMT///////83Nzezs7NjY2MjIyNxcXHY2NgPDw8aGhqqqqpUVFSY1SnYAAAAFHRSTlMANoTB7P+HZf///2Ig2P///v8cRlaWtmYAAAEsSURBVHgBbZMHkoAgDABRiQZUEnv//zdPEu8sczuFsvQE80eSZhbAZnlivhQW0PkTh2DLl6pqcIGYhNBA3d6uAwyXUY3Q3a4hgU9iQdT82lbcTU8UbSWyxlvEiYPUsI6uhKDCj6In0H2hOKV1rHLwRDR6BJRhzhqTQCAF49b9vMAy9zI1MTkSy9QRQO+DJAVjajJ3VtZ+dnAyzP1K/jqYy4yN9eAWEJZh4o1J8NaAJ4EHgJ1JYZGgUpqIWjtYSw+yrLLvUqwLs860ciBlnq+YuJ6I5UApEusmfa/L7aRgbpLrdjeTFgGS+HzEtG5viNjZmCAQaIMPngOUGrJ/5BUyU0FD4XhDDbSvNOH7de400QS7xZ1gSiupeengoK7Mk/KZ1IX5kuT6HdL7O/wAG3YiUM/dEF4AAAAASUVORK5CYII=" alt="Genspark Logo" style="height:26px; width:26px;">
+    <img src="https://yt3.ggpht.com/9tf3YEzwy6agTA5TS520gfZ57-FXCFuqj-GlUY8jNlhZsX1Xp5YPaz7KtEHabOS_YKadFvSYrT8=s240-c-k-c0x00ffffff-no-rj" alt="Genspark Logo" style="height:32px; width:32px; border-radius:50%;">
     <span style="margin-left: 10px;">genspark-invite-plus</span>
   </span>
 </h1>
